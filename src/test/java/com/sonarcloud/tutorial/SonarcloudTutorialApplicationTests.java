@@ -9,7 +9,7 @@ class SonarcloudTutorialApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.assertEquals("asdasd", "asd");
+		Assertions.assertEquals("asdasd", "");
 	}
 
 }
