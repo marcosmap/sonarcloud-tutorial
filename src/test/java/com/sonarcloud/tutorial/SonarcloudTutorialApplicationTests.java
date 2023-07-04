@@ -11,6 +11,7 @@ class SonarcloudTutorialApplicationTests {
 	@Test
 	void contextLoads() {
 		Assertions.assertEquals("asdasd", Mockito.anyString());
+		Assertions.assertEquals("marcos", Mockito.anyString());
 	}
 
 }
